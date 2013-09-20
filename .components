@@ -1,0 +1,10 @@
+---
+:orm: mongoid
+:test: rspec
+:mock: none
+:script: jquery
+:renderer: erb
+:stylesheet: less
+:namespace: Scrapland
+:migration_format: number
+:admin_renderer: erb
